@@ -26,7 +26,7 @@ class ProductManagerTest {
     }
 
     @Test
-    void removeIdOneProductFromRepository() {
+    void removeIdOneProductFromOneProduct() {
 
         Product book1 = new Book(2, "Title", 150, "Author");
 
@@ -40,7 +40,7 @@ class ProductManagerTest {
     }
 
     @Test
-    void removeIdOneProductFromRepository1() {
+    void removeIdOneProductFromTwoProducts() {
 
         Product book1 = new Book(2, "Title", 150, "Author");
         Product smartphone1 = new Smartphone(3, "Sony", 15000, "Japan");
