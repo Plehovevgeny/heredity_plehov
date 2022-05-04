@@ -65,7 +65,7 @@
                                         <limit>
                                             <counter>LINE</counter>
                                             <value>COVEREDRATIO</value>
-                                            <minimum>65%</minimum>
+                                            <minimum>69%</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
